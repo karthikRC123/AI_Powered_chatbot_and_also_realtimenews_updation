@@ -79,4 +79,4 @@ The application will start in development mode. Open your browser and visit `htt
 This project is licensed under the MIT License.
 
 ## Author
-Developed by [Karthik R C].
+Developed by {Karthik R C}[https://github.com/karthikRC123].
